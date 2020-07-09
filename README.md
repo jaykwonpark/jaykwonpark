@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+Github says this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
+
 <!--
-**jaykwonpark/jaykwonpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jaykwonpark/jaykwonpark** is 
 
 Here are some ideas to get you started:
 
